@@ -1,5 +1,4 @@
-# React - Basic Theoretical Concepts
-
+# React - Basic Theoretical Concepts(theory)
 This document is my attempt to formally explain my mental model of React. The intention is to describe this in terms of deductive reasoning that lead us to this design.
 
 There may certainly be some premises that are debatable and the actual design of this example may have bugs and gaps. This is just the beginning of formalizing it. Feel free to send a pull request if you have a better idea of how to formalize it. The progression from simple -> complex should make sense along the way without too many library details shining through.
